@@ -139,3 +139,25 @@ Este repositório representa parte da minha evolução técnica e do meu comprom
 ---
 
 **Em constante evolução. 🚀**
+
+---
+
+## Diário de evolução
+
+### 16/07/2026
+
+- Primeiro clone realizado.
+- Primeiro acesso ao repositório via Git Bash.
+- Organização da estrutura local de desenvolvimento.
+- Aprendizado dos comandos:
+  - pwd
+  - ls
+  - ls -la
+  - cd
+  - mkdir
+  - git clone
+  - git status
+  - git log
+  - git remote -v
+
+
