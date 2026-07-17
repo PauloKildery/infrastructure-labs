@@ -156,3 +156,127 @@ Neste laboratório foi possível compreender que uma branch não é uma cópia c
 
 Também foi possível verificar que alterações realizadas em uma branch permanecem isoladas até serem integradas à `main`.
 
+## Aprendizados Práticos
+
+Durante este laboratório foram realizados exercícios para compreender o funcionamento do Git no dia a dia de uma equipe de desenvolvimento.
+
+### Trabalhando com alterações
+
+#### git diff
+
+Utilizado para visualizar exatamente quais linhas foram alteradas antes de realizar um commit.
+
+```bash
+git diff
+
+Arquivo alterado
+        │
+        ▼
+git status
+        │
+        ▼
+git diff
+        │
+        ▼
+git add
+        │
+        ▼
+Staging Area
+        │
+        ├──► git restore --staged
+        │
+        ▼
+git commit
+        │
+        ▼
+Repositório Local
+        │
+        ▼
+git push
+        │
+        ▼
+GitHub
+
+
+---
+
+# Eu faria mais uma melhoria
+
+Eu criaria um pequeno quadro no início do laboratório.
+
+```markdown
+## Competências Desenvolvidas
+
+| Assunto | Status |
+|----------|:------:|
+| Branches | ✅ |
+| Merge | ✅ |
+| git diff | ✅ |
+| git restore | ✅ |
+| git restore --staged | ✅ |
+| git stash | ✅ |
+| git stash pop | ✅ |
+| git log | ✅ |
+| Conventional Commits | ✅ |
+
+## Aprendizados desta Aula
+
+Nesta etapa do laboratório foram praticados os seguintes conceitos do Git:
+
+### git diff
+
+Permite visualizar exatamente quais alterações foram realizadas em um arquivo antes de criar um commit.
+
+```bash
+git diff
+```
+
+### git restore
+
+Descarta alterações locais e restaura o arquivo para o estado do último commit.
+
+```bash
+git restore README.md
+```
+
+### git restore --staged
+
+Remove um arquivo da Staging Area sem perder as alterações realizadas.
+
+```bash
+git restore --staged README.md
+```
+
+### git stash
+
+Armazena temporariamente alterações locais.
+
+```bash
+git stash
+```
+
+### git stash list
+
+Lista os trabalhos armazenados temporariamente.
+
+```bash
+git stash list
+```
+
+### git stash pop
+
+Recupera as alterações armazenadas no stash e remove o stash da lista.
+
+```bash
+git stash pop
+```
+
+## Lições Aprendidas
+
+- Compreendi a diferença entre Working Tree e Staging Area.
+- Aprendi quando utilizar `git restore` e `git restore --staged`.
+- Entendi como utilizar `git stash` para interromper um trabalho sem perder alterações.
+- Aprendi a interpretar corretamente as mensagens do `git status`.
+- Passei a utilizar `git diff` antes dos commits para revisar alterações.
+
+
