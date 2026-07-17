@@ -160,5 +160,13 @@ Este repositório representa parte da minha evolução técnica e do meu comprom
   - git log
   - git remote -v
 
+---
 
+## 📚 Histórico de Estudos
+
+### Laboratório 02 - Git Branches
+
+- Criação da primeira Branch.
+- Entendimento do fluxo Git.
+- Trabalho em ambiente isolado utilizando Branch.
 
