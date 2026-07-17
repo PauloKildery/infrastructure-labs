@@ -33,3 +33,15 @@ Exemplo executado neste laboratório:
 git switch main
 git merge docs/exemplo-merge-commit
 
+## Merge Commit
+
+O Merge Commit ocorre quando a branch principal e a branch de trabalho recebem commits diferentes após o ponto em comum.
+
+Nesse cenário, o Git não pode apenas avançar o ponteiro da branch principal. Ele precisa combinar os dois históricos e criar um novo commit com dois commits-pai.
+
+Exemplo executado neste laboratório:
+
+```bash
+git switch main
+git merge docs/exemplo-merge-commit
+
