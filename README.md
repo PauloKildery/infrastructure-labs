@@ -170,3 +170,9 @@ Este repositório representa parte da minha evolução técnica e do meu comprom
 - Entendimento do fluxo Git.
 - Trabalho em ambiente isolado utilizando Branch.
 
+Aprendendo Git Stash.
+
+
+
+
+
