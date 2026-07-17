@@ -16,3 +16,7 @@ Neste laboratório serão abordados:
 ## Observações
 
 Primeira versão do Laboratório 03.
+
+## Fast-Forward Merge
+
+O fast-forward ocorre quando a branch principal não recebeu novos commits após a criação da branch de trabalho. Nesse caso, o Git apenas avança o ponteiro da branch principal.
