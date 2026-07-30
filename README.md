@@ -1,178 +1,93 @@
-# 🚀 Infrastructure, Cloud & DevOps Labs
+# Infrastructure Labs
 
-## 👋 Bem-vindo!
+Repositório de laboratórios práticos sobre infraestrutura, redes, DevOps, Cloud, automação e desenvolvimento.
 
-Este repositório reúne meus laboratórios práticos, estudos e documentações relacionados a Infraestrutura de TI, Redes, Cloud Computing, Automação e Cultura DevOps.
+Este projeto documenta minha evolução técnica por meio de estudos, testes controlados, resolução de problemas e implementação de ambientes de laboratório.
 
-O objetivo é registrar minha evolução profissional por meio de implementações, testes, boas práticas, resolução de problemas e lições aprendidas.
+## Sobre mim
 
----
+Sou profissional de Infraestrutura e Redes, com experiência em ambientes corporativos, suporte a serviços críticos, administração de servidores, segurança da informação e conectividade.
 
-## 🎯 Objetivos do repositório
+Atualmente, estou ampliando minha atuação para DevOps, Cloud, automação, desenvolvimento Full Stack e Inteligência Artificial aplicada.
 
-- Documentar laboratórios técnicos de forma organizada.
-- Praticar Git, GitHub e controle de versões.
-- Registrar comandos, configurações e procedimentos.
-- Compartilhar soluções e aprendizados.
-- Aplicar conceitos de Infraestrutura, Cloud, Automação e DevOps.
-- Construir um portfólio técnico baseado em experiências e estudos reais.
+## Objetivos do repositório
 
----
+- Registrar laboratórios técnicos de forma organizada.
+- Demonstrar conhecimentos práticos.
+- Documentar problemas, decisões e soluções.
+- Aplicar boas práticas de Git e GitHub.
+- Construir um portfólio alinhado às áreas de Infraestrutura, DevOps e Cloud.
+- Acompanhar minha evolução profissional.
 
-## 🧰 Tecnologias e áreas de estudo
+## Áreas de estudo
 
-### Infraestrutura e Sistemas
+| Área | Situação |
+|---|---|
+| Git e GitHub | Em andamento |
+| Linux | Planejado |
+| Redes | Planejado |
+| Windows Server | Planejado |
+| Docker | Planejado |
+| Kubernetes | Planejado |
+| OpenShift | Planejado |
+| Python | Planejado |
+| Azure | Planejado |
+| AWS | Planejado |
+| Terraform | Planejado |
+| Ansible | Planejado |
+| Automação | Planejado |
 
-- Microsoft Windows Server
-- Linux
-- Active Directory
-- Virtualização
-- Serviços de rede
+## Laboratórios disponíveis
 
-### Redes e Segurança
+### Git e GitHub
 
-- TCP/IP
-- Switching e Routing
-- VLANs
-- Firewalls
-- pfSense
-- OPNsense
-- Segurança da Informação
+- [Visão geral dos laboratórios](./git/)
+- [01 — Git e GitHub](./git/01-git-github/)
+- [02 — Branches](./git/02-git-branches/)
+- [03 — Merge e resolução de conflitos](./git/03-git-merge/)
+- [04 — Git Rebase](./git/04-git-rebase/)
 
-### Monitoramento e Gestão
+## Competências praticadas
 
-- Zabbix
-- NetBox
-- OCS Inventory
-- OTRS
-- Grafana
+- Controle de versão com Git.
+- Organização de branches.
+- Commits e mensagens padronizadas.
+- Merge fast-forward.
+- Merge commit.
+- Resolução de conflitos.
+- Rebase.
+- Documentação técnica em Markdown.
+- Publicação e sincronização com GitHub.
 
-### Cloud e DevOps
+## Roadmap
 
-- Microsoft Azure
-- Amazon Web Services
-- Docker
-- OpenShift
-- Kubernetes
-- Git
-- GitHub
-- Cultura DevOps
+O planejamento completo dos próximos laboratórios está disponível em:
 
-### Automação e Desenvolvimento
+- [Roadmap técnico](./docs/roadmap.md)
 
-- Python
-- PowerShell
-- Bash
-- APIs
-- Desenvolvimento Full Stack
-- Inteligência Artificial aplicada à TI
+## Tecnologias previstas
 
----
+`Git` `GitHub` `Linux` `Windows Server` `Networking` `Docker` `Kubernetes` `OpenShift` `Python` `Azure` `AWS` `Terraform` `Ansible`
 
-## 📚 Estrutura dos laboratórios
+## Metodologia
 
-Cada laboratório poderá conter:
+Cada laboratório deverá conter, sempre que aplicável:
 
-- Objetivo
-- Cenário
-- Arquitetura
-- Pré-requisitos
-- Passo a passo
-- Comandos utilizados
-- Configurações aplicadas
-- Evidências e capturas de tela
-- Problemas encontrados
-- Soluções adotadas
-- Lições aprendidas
-- Próximas melhorias
+1. Objetivo.
+2. Conceitos.
+3. Pré-requisitos.
+4. Ambiente utilizado.
+5. Passo a passo.
+6. Comandos executados.
+7. Problemas encontrados.
+8. Soluções aplicadas.
+9. Resultado.
+10. Aprendizados.
 
----
+## Status do projeto
 
-## 🗺️ Roadmap
-
-- [ ] Git e GitHub
-- [ ] Windows Server
-- [ ] Active Directory
-- [ ] Linux
-- [ ] Redes e VLANs
-- [ ] pfSense e OPNsense
-- [ ] Docker
-- [ ] OpenShift
-- [ ] Kubernetes
-- [ ] Microsoft Azure
-- [ ] Amazon Web Services
-- [ ] Python para automação
-- [ ] PowerShell
-- [ ] Zabbix
-- [ ] NetBox
-- [ ] OCS Inventory
-- [ ] Grafana
-- [ ] OTRS
-- [ ] APIs e Desenvolvimento Full Stack
-- [ ] Inteligência Artificial aplicada à TI
+Este repositório está em desenvolvimento contínuo. Novos laboratórios e melhorias de documentação serão adicionados conforme a evolução dos estudos.
 
 ---
 
-## 📌 Status
-
-Este repositório está em construção e será atualizado gradualmente conforme a realização dos laboratórios e projetos.
-
-O foco é manter uma documentação clara, prática e baseada em aprendizado real.
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou especialista em Infraestrutura e Redes, com experiência em ambientes corporativos de TI, segurança, virtualização, monitoramento e serviços críticos.
-
-Atualmente, estou ampliando meus conhecimentos em Cloud Computing, Automação, Cultura DevOps, Desenvolvimento Full Stack e Inteligência Artificial aplicada à Tecnologia da Informação.
-
-Este repositório representa parte da minha evolução técnica e do meu compromisso com o aprendizado contínuo, a documentação e o compartilhamento de conhecimento.
-
----
-
-## 🔗 Contato
-
-- LinkedIn: [Paulo Kildery](https://www.linkedin.com/in/paulo-kildery-pk-37996346/)
-- GitHub: [PauloKildery](https://github.com/PauloKildery)
-
----
-
-**Em constante evolução. 🚀**
-
----
-
-## Diário de evolução
-
-### 16/07/2026
-
-- Primeiro clone realizado.
-- Primeiro acesso ao repositório via Git Bash.
-- Organização da estrutura local de desenvolvimento.
-- Aprendizado dos comandos:
-  - pwd
-  - ls
-  - ls -la
-  - cd
-  - mkdir
-  - git clone
-  - git status
-  - git log
-  - git remote -v
-
----
-
-## 📚 Histórico de Estudos
-
-### Laboratório 02 - Git Branches
-
-- Criação da primeira Branch.
-- Entendimento do fluxo Git.
-- Trabalho em ambiente isolado utilizando Branch.
-
-Aprendendo Git Stash.
-
-
-
-
-
+Desenvolvido por **Paulo Kildery Morais de Azevedo**.
