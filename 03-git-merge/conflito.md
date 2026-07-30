@@ -2,4 +2,4 @@
 
 ## Ambiente
 
-O ambiente utilizado neste laboratório é o computador de trabalho.
+O ambiente utilizado neste laboratório é o computador pessoal com VS Code.
