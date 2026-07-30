@@ -2,4 +2,4 @@
 
 ## Ambiente
 
-O ambiente utilizado neste laboratório é uma estação Linux com terminal Git Bash.
+O ambiente utilizado neste laboratório é o computador pessoal, com VS Code e terminal Git Bash.
