@@ -1,0 +1,17 @@
+# Normalização de finais de linha do projeto
+
+* text=auto
+
+# Documentação
+*.md text eol=lf
+*.txt text eol=lf
+
+# Linux / automação
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Windows
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
