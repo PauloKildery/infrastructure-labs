@@ -14,3 +14,12 @@ Comandos utilizados para investigação:
 
 ```bash
 comando 
+
+## Caso 01 — Permission denied por permissões de diretório e arquivo
+
+### Cenário
+
+Um usuário membro do grupo `linuxlab` precisava acessar o arquivo:
+
+```text
+/home/paulokildery_ubuntu/linux-lab-files/documentos/arquivo1.txt
