@@ -38,3 +38,32 @@ Este laboratório abordará:
 ├── commands.md
 ├── troubleshooting.md
 └── images/
+
+## Ambiente utilizado
+
+O laboratório foi executado em Ubuntu 24.04 LTS utilizando WSL 2 sobre Windows 11 Pro.
+
+### Informações do sistema
+
+| Item | Valor |
+|---|---|
+| Distribuição | Ubuntu 24.04.4 LTS |
+| Codename | Noble Numbat |
+| Ambiente | WSL 2 |
+| Arquitetura | x86_64 |
+| Hostname | PK |
+| Usuário | paulokildery_ubuntu |
+| Interface de rede | eth0 |
+| IPv4 | 172.26.8.139/20 |
+| Gateway | 172.26.0.1 |
+| DNS | 10.255.255.254 |
+
+## Validação de conectividade
+
+Foram realizados testes de interface, roteamento, resolução DNS e acesso HTTPS.
+
+A resolução DNS IPv4 foi validada com:
+
+```bash
+getent ahostsv4 google.com
+

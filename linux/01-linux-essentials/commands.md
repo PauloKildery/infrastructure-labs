@@ -9,3 +9,11 @@ pwd
 ls
 ls -la
 cd
+
+## Diagnóstico de rede
+
+### Interfaces de rede
+
+```bash
+ip addr
+
